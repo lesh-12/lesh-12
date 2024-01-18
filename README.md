@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**lesh-12/lesh-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm lesh</h1>
 <h3 align="center">A CS student at IU International.</h3>
 
