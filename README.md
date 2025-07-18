@@ -1,10 +1,6 @@
 <h3 align="left">Hello! I'm Leckhraj Matabudul </h3>
 <h4 align="left">I'm a Computer Science student at the Open University of Mauritius.</h4>
 
-🌱 I’m currently learning **Java**
-
-<h4 align="left">Connect with me! 🤝🏼 </h4>
-LinkedIn: www.linkedin.com/in/leckhraj-matabudul
 
 
 
